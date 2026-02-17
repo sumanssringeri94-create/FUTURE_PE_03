@@ -1,0 +1,14 @@
+You are an expert SEO content strategist.
+
+Create an SEO-optimized outline.
+
+Business: Dental Clinic in Bangalore
+Primary Keyword: Best Dental Clinic in Bangalore
+Target Audience: Families & working professionals
+
+Include:
+- H1, H2, H3 structure
+- FAQ section
+- CTA
+- Internal linking suggestions
+- Local SEO elements
