@@ -1,0 +1,13 @@
+You are an SEO content expert.
+
+Create a supporting blog.
+
+Main Topic: [Insert Topic]
+Parent Pillar: Best Dental Clinic in Bangalore
+
+Requirements:
+- 1000+ words
+- SEO headings
+- Internal link to pillar page
+- FAQ section
+- Local Bangalore optimization
