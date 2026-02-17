@@ -37,7 +37,9 @@ Orthodontic correction for misaligned teeth.
 
 ## Dental Treatment Cost in Bangalore
 
- Treatment -> Approx Cost (INR) 
+ Treatment -> Approx Cost (INR)
+
+ 
  Dental Implant -> ₹25,000 – ₹45,000 
  Root Canal ->  ₹3,000 – ₹8,000 
  Teeth Whitening -> ₹6,000 – ₹15,000 
