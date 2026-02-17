@@ -1,0 +1,14 @@
+You are an SEO strategist.
+
+Business Type: Dental Clinic
+Location: Bangalore
+Primary Keyword: Best Dental Clinic in Bangalore
+
+Tasks:
+1. Identify search intent.
+2. Suggest 5 long-tail keywords.
+3. Suggest 5 People Also Ask questions.
+4. Suggest content cluster topics.
+5. Suggest internal linking strategy.
+
+Provide structured output.
